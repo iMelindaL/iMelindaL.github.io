@@ -30,7 +30,7 @@ url: "https://imelindal.github.io" # the base hostname & protocol for your site,
 # github_username:  jekyll
 
 # Build settings
-theme: Biu-Jekyll-Theme
+remote_theme: Biu-Jekyll-Theme
 plugins:
   - jekyll-feed
 
