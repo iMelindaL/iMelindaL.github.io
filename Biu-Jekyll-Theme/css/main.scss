@@ -5,25 +5,25 @@
 
 // Helpers
 @import
-    'helpers/mixins',
-    'helpers/variables';
+    'helpers/_mixins',
+    'helpers/_variables';
 
 // Base
 @import
-    'base/reset';
+    'base/_reset';
 
 // Utilities
 @import
-    'utilities/layout',
-    'utilities/separator';
+    'utilities/_layout',
+    'utilities/_separator';
 
 // Components
 @import
-    'components/page',
-    'components/article',
-    'components/tag',
-    'components/archives';
+    'components/_page',
+    'components/_article',
+    'components/_tag',
+    'components/_archives';
 
 // Vendor
 @import
-    'vendor/highlight';
+    'vendor/_highlight';
